@@ -1,0 +1,166 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 0;
+    margin: 10px 0;
+}
+
+.intro-heading{
+    font-size: 20px;
+    font-style: bold;
+    padding: 10px;
+    border-left: 5px solid #FFAD5A;
+}
+.second-h1{
+    margin-bottom: 5px;
+    color: #FFAD5A;
+}
+.about-img img{
+    border-radius: 50%;
+}
+.pragraph-deco{
+    width: 300px;
+    padding: 50px;
+    border: 1px;
+    padding: 10px;
+    margin: auto;
+}
+.button-1{
+    margin-top: 45px;
+}
+.button-1 a{
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color:#FF5959;
+}
+.scrol-down p{
+    margin-top: 45px;
+}
+
+.mission-num h1{
+    font-style: bold;
+    text-align: center;
+}
+#year{
+    color: #FFAB57;
+}
+
+.missons{
+    display: flex;
+    text-align: center;
+}
+
+.missons-item {
+    margin: 10px;
+    padding: 10px;
+    width: 50%;
+    height: 50%;
+    border-radius: 20px;
+}
+.missons-item h4 {
+    font-size: 22px;
+}
+.first-img{
+    background-color: #EDF5F6;
+}
+.second-img{
+    background-color: #FFEEEE;
+}
+.third-img{
+    background-color: #FFF4D6;
+}
+
+.developer{
+    display:flex;
+}
+.developer-contents {
+    margin-left: 35px;
+}
+
+.developer a {
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color:#FF5959;
+}
+
+.Global-Community{
+    display: flex;
+}
+.Global-Community a{
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color:#FF5959;
+}
+
+.corona-title{
+    text-align: center;
+}
+
+.corona-title-color{
+    color: #FFAD5A;
+}
+
+.corona-contents-container {
+    display: flex;
+}
+
+.corona-contents {
+    padding-left: 35px;
+}
+
+#singel-element{
+    color:#FFAD5A; ;
+}
+
+.corona-contents a{
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color:#FF5959;
+}
+
+.hard-work{
+    background-color: #0B0D17;
+    padding: 10px 0;
+}
+.hard-work h1{
+    color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Serif Pro', serif;;
+}
+.hard-work-title-color {
+    color: #FF5959;
+}
+
+.hard-work p{
+    color: white;
+    text-align: center;
+    font-family: Parisienne;
+    padding: 10px;
+}
+
